@@ -1,6 +1,6 @@
 #OMG UI
 
 def main():
-    pass
+    larry = input("1: Make Character, 2: Edit Character")
 
 main()
