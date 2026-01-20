@@ -1,8 +1,7 @@
 #OMG UI
-from creator import characterCreator
+
+characters = []
 def main():
     larry = input("1: Make Character, 2: Edit Character")
-    print(larry)
-    characterCreator()
-
+    chars.append(characterCreator())
 main()
